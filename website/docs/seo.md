@@ -37,7 +37,7 @@ Similar to [global metadata](#global-metadata), Docusaurus also allows for the a
 # A cooking guide
 
 <head>
-  <meta name="keywords" content="cooking, blog">
+  <meta name="keywords" content="cooking, blog"/>
 </head>
 
 Some content...
